@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Salem\'s Project V2</string>
+    <string name="title_activity_maps">Salem\'s Project</string>
+    <string name="google_maps">Google Maps</string>
+    <string name="google_places">Google Places</string>
+    <string name="send_email">Send Email</string>
+    <string name="show_about_app">About App</string>
+    <string name="problem">a problem has occured</string>
+    <string name="invalid">invalid address was provided</string>
+    <string name="noaddress">could not find address.</string>
+    <string name="api_key">AIzaSyDxS4B5q7w_Rkf6DNX8Fp-IRGAJBh5gS9k</string>
+    <string name="about_app">This application shows your current location, allows you send the address via email to anyone, and also shows closes 5 places to your position.</string>
+    <string name="author">Salem Kosemani</string>
+    <string name="close">Close</string>
+    <string name="send_mail">Send Email</string>
+    <string name="email">Enter Email Address</string>
+</resources>
